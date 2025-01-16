@@ -6,8 +6,8 @@ import { createClient } from '@supabase/supabase-js'
 // dotenv.config()
 
 const supabase = createClient(
-    "https://llaqbfjfllqnjqhafnxj.supabase.co",
-    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxsYXFiZmpmbGxxbmpxaGFmbnhqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY3MjQ1OTIsImV4cCI6MjA1MjMwMDU5Mn0.OMUDi8r785oqVATHgfmAt1vQZk8JSh3q0d7lLU_fpXo"
+    "https://eghzfwsgdvzcesihbydf.supabase.co",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVnaHpmd3NnZHZ6Y2VzaWhieWRmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcwMzM3OTYsImV4cCI6MjA1MjYwOTc5Nn0.DGKfGshJ2w0l3qTypnPZpaN2un3vhjexfsSS21lThu4"
 );
 
 export default supabase;
